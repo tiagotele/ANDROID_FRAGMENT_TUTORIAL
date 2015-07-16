@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidFragmentSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">Dank meme bro</string>
+    <string name="top_text">Top</string>
+    <string name="botton_text">Botton</string>
+</resources>
